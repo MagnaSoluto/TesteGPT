@@ -1,0 +1,7 @@
+python-binance
+pandas
+ta
+schedule
+loguru
+python-dotenv
+pytest
